@@ -2,3 +2,5 @@
 venv/
 .env/
 pycloudenv/
+read_function.zip
+write_function.zip
