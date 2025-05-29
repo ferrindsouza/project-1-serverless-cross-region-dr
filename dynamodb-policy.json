@@ -11,7 +11,7 @@
                 "dynamodb:Query",
                 "dynamodb:Scan"
             ],
-            "Resource": "arn:aws:dynamodb:us-east-1:529088274110:table/HighAvailabilityTable"
+            "Resource": "arn:aws:dynamodb:us-east-1:*************:table/HighAvailabilityTable"
         }
     ]
 }
