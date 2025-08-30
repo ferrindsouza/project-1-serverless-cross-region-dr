@@ -19,7 +19,8 @@ The architecture consists of core components deployed in two separate AWS region
 
 #### Architecture Diagram
 
-[Serverless Archietecture.jpg](https://github.com/ferrindsouza/project-1-serverless-cross-region-dr/blob/main/Serverless%20Archietecture.jpg)
+<img width="1404" height="567" alt="image" src="https://github.com/ferrindsouza/project-1-serverless-cross-region-dr/blob/main/Serverless%20Archietecture.jpg"/>
+
 
 
 ***
